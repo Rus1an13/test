@@ -41,3 +41,10 @@ $c = $a + $b;
 [Text](http://google.com)
 
 ![Picture](img/1.jpg)
+[![Picture](img/2.jpg)](http://google.com)
+
+Item    | Value     | Quantity
+:-------|:---------:|---------:
+Computer|1600       |3
+Phone   |12         |2
+Pipe    |1          |1
